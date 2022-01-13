@@ -1,0 +1,22 @@
+h1{
+    color: darkred;
+}
+
+img{
+width: 400px;
+}
+
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(255, 195, 248);
+    padding: 50px;
+    border-color: firebrick;
+    border-style: double;
+    border-width: 100px;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
